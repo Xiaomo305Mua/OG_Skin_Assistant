@@ -1,6 +1,14 @@
+[
 {
     "version": "1.1-custom",
     "versionCode": "20260213",
     "zipUrl": "https://github.com/Xiaomo305Mua/OG_Skin_Assistant/releases/download/20260213/OGSA-10.27.4-hutao.zip",
     "changelog": "https://xiaomo305mua.github.io/OG_Skin_Assistant/changelog.md"
-}
+},
+    {
+    "version": "1.1-cm",
+    "versionCode": "20260213",
+    "zipUrl": "https://github.com/Xiaomo305Mua/OG_Skin_Assistant/releases/download/20260213/OGSA-10.27.4-hutao.zip",
+    "changelog": "https://xiaomo305mua.github.io/OG_Skin_Assistant/changelog.md"
+    }
+]
