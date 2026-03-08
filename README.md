@@ -1,2 +1,2 @@
-# OG_Skin_Assistant
-修改ColorOS、realmeUI游戏助手Apk并以Magisk模块的形式刷入<br>得以让普通机型支持定制机皮肤
+# OG Skin Assistant
+一款为欧真加非定制机支持定制机皮肤的Magisk模块<br>提倡授之以渔，切莫授之以鱼<br>视频平台仅允许哔哩哔哩，至少注明模块来源<br>如发现未遵守者必追究，尤其是拿着他人成果盈利的😋
